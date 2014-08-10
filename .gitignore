@@ -2,4 +2,4 @@
 tmp
 &.swp~
 text/*.txt
-!test/master.txt
+!text/master.txt
